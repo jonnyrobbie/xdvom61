@@ -1,5 +1,51 @@
-#kvam
+#[3]() 4EK212 - Kvantitativní management
 
-1. prednaska kvamu
+Test se píše obvykle 8. týden.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, arcu tempor efficitur aliquet, est mi dictum odio, sit amet mollis ligula tellus in magna. Quisque vulputate bibendum lacus ac pellentesque. Vestibulum elementum elementum mauris quis sodales. Nullam sit amet sollicitudin mi. Suspendisse scelerisque finibus viverra. Sed felis nulla, lobortis molestie rutrum non, porttitor sit amet neque. Ut semper sapien vitae quam ornare, sed laoreet magna dictum. Sed ac ornare metus.
+Body ze cvičení:
+
+* 10 bodů za aktivitu
+
+* 30 bodů za test
+
+Body z přednášky:
+
+* 60 bodů za závěrečnou zkoušku
+
+Bodování předmětu je klasické:
+
+* 1: 90b - 100b
+
+* 2: 75b - 89b
+
+* 3: 60b - 74b
+
+* 4+: 50b - 59b
+
+* 4: 0b - 49b
+
+Tento seznam je pouze orientační! Vše se může změnit.
+
+1. Úvod
+
+2. Typové úlohy 1
+
+3. Typové úlohy 2
+
+4. Simplexová metoda
+
+5. Úlohy celočíselného programování 1
+
+6. Úlohy celočíselného programování 2
+
+7. Data Envelopment Analysis
+
+8. Test
+
+9. CPM a PERT
+
+10. Nejkratší cesty v grafu
+
+11. TSP a VRP
+
+12. Modely zásob

@@ -1,8 +1,22 @@
-#[1]() maine
+#[1]() Marek Dvořák
 
-* main menu
+* email:
 
-Ut lobortis odio et nibh faucibus, vitae consequat augue lacinia. Nulla quis enim viverra magna aliquam consequat ac nec ipsum. Aliquam vehicula volutpat volutpat. Mauris a felis eu lorem rhoncus tristique eu sed arcu. Nullam laoreet placerat dolor at mollis. Nullam tempus ante in ligula vestibulum, at vehicula nisl ullamcorper. Nulla est lorem, varius in dolor at, mattis semper quam. Curabitur magna libero, mollis eu feugiat vel, elementum vitae sem. Proin convallis sem quis orci aliquam accumsan. Etiam efficitur neque sem, ac vulputate libero vehicula quis.
+    [marek.dvorak@vse.cz](mailto:marek.dvorak@vse.cz)
 
-Ut lobortis odio et nibh faucibus, vitae consequat augue lacinia. Nulla quis enim viverra magna aliquam consequat ac nec ipsum. Aliquam vehicula volutpat volutpat. Mauris a felis eu lorem rhoncus tristique eu sed arcu. Nullam laoreet placerat dolor at mollis. Nullam tempus ante in ligula vestibulum, at vehicula nisl ullamcorper. Nulla est lorem, varius in dolor at, mattis semper quam. Curabitur magna libero, mollis eu feugiat vel, elementum vitae sem. Proin convallis sem quis orci aliquam accumsan. Etiam efficitur neque sem, ac vulputate libero vehicula quis.
-Ut lobortis odio et nibh faucibus, vitae consequat augue lacinia. Nulla quis enim viverra magna aliquam consequat ac nec ipsum. Aliquam vehicula volutpat volutpat. Mauris a felis eu lorem rhoncus tristique eu sed arcu. Nullam laoreet placerat dolor at mollis. Nullam tempus ante in ligula vestibulum, at vehicula nisl ullamcorper. Nulla est lorem, varius in dolor at, mattis semper quam. Curabitur magna libero, mollis eu feugiat vel, elementum vitae sem. Proin convallis sem quis orci aliquam accumsan. Etiam efficitur neque sem, ac vulputate libero vehicula quis.
+* kabinet:
+    NB429
+
+* výuka:
+
+    Pátek 09:15 - 10:45: 4EK311
+    
+    Pátek 12:45 - 14:15: 4EK311
+
+* konzultační hodiny:
+
+    Čtvrtek xx:xx - xx:xx
+    
+    Pátek 11:00 - 12:30
+    
+    nebo po dohodě emailem
