@@ -14,7 +14,7 @@ Body z přednášky:
 
 * 60 bodů za závěrečnou zkoušku
 
-Bodování předmětu je klasické:
+Bodování předmětu je standartní:
 
 * 1: 90b - 100b
 

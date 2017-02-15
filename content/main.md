@@ -22,4 +22,4 @@
     
     Pátek 11:00 - 12:30
     
-    nebo po dohodě emailem
+    nebo po dohodě

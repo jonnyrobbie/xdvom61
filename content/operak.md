@@ -4,7 +4,7 @@
 
 Test se píše zhruba 6. týden. Ještě upřesním.
 
-Bodování předmětu je klasické:
+Bodování předmětu je standartní:
 
 * 1: 90b - 100b
 
