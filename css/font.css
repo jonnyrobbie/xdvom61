@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Computer Modern Roman";
+    src: url('../fonts/cmunrm.otf');
+}
+@font-face {
+    font-family: "Computer Modern Roman";
+    src: url('../fonts/cmunti.otf');
+    font-style: italic;
+}
+@font-face {
+    font-family: "Computer Modern Roman";
+    src: url('../fonts/cmunbx.otf');
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Computer Modern Roman";
+    src: url('../fonts/cmunbi.otf');
+    font-weight: bold;
+    font-style: italic;
+}

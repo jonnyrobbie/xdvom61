@@ -1,0 +1,21 @@
+@keyframes menu-touch {
+    from {
+        height: 49px;
+        font-size: 1em;
+    }
+    to {
+        height: 78px;
+        font-size: 2em;
+    }
+}
+
+@keyframes menu-touchout {
+    from {
+        font-size: 2em;
+        height: 78px;
+    }
+    to {
+        height: 49px;
+        font-size: 1em;
+    }
+}

@@ -1,0 +1,118 @@
+body {
+    margin: 0px;
+    font-size: 13pt;
+    font-family: "Computer Modern Roman", "Linux Libertine", serif;
+    line-height: 21.5px;
+    background-color: #EEE;
+}
+
+/*#footer, #content, #menu, #main li {
+    border: 1px black dashed;
+}*/
+
+
+/*HEADER*/
+#header img {
+    width: 100%;
+}
+
+#header {
+    position: fixed;
+    margin-top: -260px;
+}
+
+/*CONTENT*/
+
+h1 {
+    font-size: 19pt;
+}
+
+ /*MENU*/
+
+/*#menu, #main {
+    float: left;
+}*/
+
+#menu ol {
+    padding-left: 0px;
+    counter-reset: level1;
+    list-style-type: none;
+    font-weight: bold;
+}
+
+#menu li {
+    cursor: pointer;
+    height: 39px;
+}
+
+#menu li:before {
+    content: counter(level1); /*Instead of ". " */
+    counter-increment: level1;
+    margin-right: 16px;
+}
+
+#menu li:before {
+    /*animation-duration: 0.3s;
+    animation-name: menu-hover-out;*/
+}
+
+#menu li:hover:before {
+    /*margin-right: 5px;
+    animation-duration: 0.3s;
+    animation-name: menu-hover-in;*/
+}
+
+/*#menu .title {
+    font-size: 19pt;
+    margin-bottom: 20px
+}*/
+
+#menu a {
+    color: black;
+    text-decoration: none;
+}
+
+#menu a:hover {
+    text-decoration: underline;
+}
+
+/*#menu a {
+    pointer-events: none;
+}*/
+/*MAIN*/
+
+#body-wrap {
+    margin-top: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    overflow: hidden;
+    width: 616px;
+    background-color: #FFF;
+    box-shadow: 0px 0px 40px #333;
+    padding-left: 239px;
+    padding-right: 211px;
+    padding-top: 205px;
+    padding-bottom: 200px;
+}
+
+#content h1 a {
+    pointer-events: none;
+    text-decoration: none;
+    color: black;
+    margin-right: 19px;
+}
+
+#main {
+    overflow: auto
+}
+
+/*FOOTER*/
+
+#footer {
+    border-top: 1px solid black;
+    display: inline-block;
+    font-size: 11pt;
+    padding-left: 18px;
+    padding-right: 18px;
+}
