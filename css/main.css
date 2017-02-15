@@ -25,6 +25,8 @@ body {
 
 h1 {
     font-size: 19pt;
+    line-height: 44px;
+    margin: 0px;
 }
 
  /*MENU*/
@@ -38,11 +40,12 @@ h1 {
     counter-reset: level1;
     list-style-type: none;
     font-weight: bold;
+    margin: 0px;
 }
 
 #menu li {
     cursor: pointer;
-    height: 39px;
+    line-height: 39px;
 }
 
 #menu li:before {
@@ -101,6 +104,10 @@ h1 {
     text-decoration: none;
     color: black;
     margin-right: 19px;
+}
+
+#content {
+    margin-top: 15px;
 }
 
 #main {
