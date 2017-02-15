@@ -1,10 +1,8 @@
-#[1]() Marek Dvořák
+#[1]() Kontakt
 
-* InSIS:
+* [Marek Dvořák](https://insis.vse.cz/auth/lide/clovek.pl?id=80266)
 
     email: [marek.dvorak@vse.cz](mailto:marek.dvorak@vse.cz)
-    
-    [InSIS profil](https://insis.vse.cz/auth/lide/clovek.pl?id=80266)
 
 * kabinet:
 
