@@ -1,5 +1,7 @@
 #[3]() 4EK212 - Kvantitativní management
 
+[Sylabus předmětu na InSISu](https://insis.vse.cz/auth/katalog/syllabus.pl?predmet=125459)
+
 Test se píše obvykle 8. týden.
 
 Body ze cvičení:
@@ -24,7 +26,7 @@ Bodování předmětu je klasické:
 
 * 4: 0b - 49b
 
-Tento seznam je pouze orientační! Vše se může změnit.
+Orientační osnova cvičení:
 
 1. Úvod
 
@@ -49,3 +51,5 @@ Tento seznam je pouze orientační! Vše se může změnit.
 11. TSP a VRP
 
 12. Modely zásob
+
+Vše se může změnit!

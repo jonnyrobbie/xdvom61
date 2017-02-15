@@ -1,18 +1,8 @@
 #[2]() 4EK311 - Operační výzkum
 
+[Sylabus předmětu na InSISu](https://insis.vse.cz/auth/katalog/syllabus.pl?predmet=125463)
+
 Test se píše zhruba 6. týden. Ještě upřesním.
-
-Body ze cvičení:
-
-* 8 bodů za aktivitu
-
-* 12 bodů za 3 domácí úkoly (4+4+4)
-
-* 20 bodů za test
-
-Body z přednášky:
-
-* 60 bodů za závěrečný test. Nutno získat alespon 50%
 
 Bodování předmětu je klasické:
 
@@ -26,6 +16,18 @@ Bodování předmětu je klasické:
 
 * 4: 0b - 49b
 
+Body ze cvičení:
+
+* 8 bodů za aktivitu
+
+* 12 bodů za 3 domácí úkoly (4+4+4)
+
+* 20 bodů za test
+
+Body z přednášky:
+
+* 60 bodů za závěrečný test. Je nutno získat alespoň 50%
+
 Úkoly:
 
 1. Úkol
@@ -36,7 +38,7 @@ Bodování předmětu je klasické:
 
 3. Úkol
 
-Tento seznam je pouze orientační! Vše se může změnit.
+Orientační osnova cvičení:
 
 1. Úvod [PDF](https://www.dropbox.com/s/u99zxy0jkbg99qt/01-uvod.pdf?dl=0)
 
@@ -59,3 +61,5 @@ Tento seznam je pouze orientační! Vše se může změnit.
 10. Modely zásob
 
 11. Modely hromadné obsluhy
+
+Vše se může změnit!
