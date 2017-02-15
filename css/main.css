@@ -41,6 +41,8 @@ h1 {
     list-style-type: none;
     font-weight: bold;
     margin: 0px;
+    margin-left: 25px;
+    text-indent: -25px;
 }
 
 #menu li {
