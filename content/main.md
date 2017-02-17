@@ -16,7 +16,7 @@
 
 * konzultační hodiny:
 
-    Čtvrtek xx:xx - xx:xx
+    Čtvrtek 16:15 - 17:45
     
     Pátek 11:00 - 12:30
     
